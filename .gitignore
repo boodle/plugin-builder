@@ -1,0 +1,7 @@
+buildDst
+vendor
+node_modules
+build/*
+assets/*.css
+assets/*.js
+.DS_Store
